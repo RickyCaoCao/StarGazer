@@ -1,0 +1,2 @@
+The Minim Audio Library must be imported in order for this program to run.
+At the top of the Processing menu, go to the Sketch tab. Then, click "Import Library..." and search for Minim.
